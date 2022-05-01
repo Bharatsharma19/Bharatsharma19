@@ -7,7 +7,6 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 </div>
 
 <br>
-
 ## About me
 
 - 👀 I’m interested in Cyber Security, Machine learning and in Open Source contribution.
@@ -19,7 +18,6 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 - ❤️ I love writing typescript, and building fun experiments on type-level
 
 <br>
-
 ## 🚀💻 Technologies & Tools
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
