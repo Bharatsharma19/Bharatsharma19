@@ -6,7 +6,9 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-**About me**
+<br>
+
+## About me
 
 - 👀 I’m interested in Cyber Security, Machine learning and in Open Source contribution.
 
@@ -15,6 +17,8 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 - 📫 You can reach me via my email i.e, bharat8717sharma@gmail.com
 
 - ❤️ I love writing typescript, and building fun experiments on type-level
+
+<br>
 
 ## 🚀💻 Technologies & Tools
 
