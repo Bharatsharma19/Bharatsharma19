@@ -1,4 +1,4 @@
-<h1  align="center" ><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm Bharat Sharma, Nice to see you.</h1>
+<h1  align="center" ><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />Hey! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Bharat Sharma, Nice to see you.</h1>
 
 <h3 align="center">
 I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
@@ -16,7 +16,8 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 
 - ❤️ I love writing typescript, and building fun experiments on type-level
 
-## 🚀💻 Technologies & Tools 
+## 🚀💻 Technologies & Tools
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -34,11 +35,10 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 ![Sublime-Text](https://img.shields.io/badge/-Sublime%20Text-black?style=flat-square&logo=Sublime-Text)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
----   
-
+---
 
 | <a href="https://github.com/Bharatsharma19/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bharatsharma19&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Bharatsharma19/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatsharma19&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <p align=center>
 <img height="22" src="https://komarev.com/ghpvc/?username=Bharatsharma19" alt="Bharatsharma19"/>
