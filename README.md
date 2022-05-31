@@ -8,7 +8,7 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 
 ## About me
 
-- 👀 I’m interested in Cyber Security, Machine learning and in Open Source contribution.
+- 👀 I’m interested in Web development, Cyber Security, Machine learning and in Open Source contribution.
 
 - 💞️ I’m looking to collaborate on Many projects that improves our community.
 
