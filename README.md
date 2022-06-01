@@ -1,4 +1,4 @@
-<h1  align="center" ><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />Hey! I'm Bharat Sharma,<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/> Nice to see you.</h1>
+<h1  align="center" ><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" />Hey! I'm Bharat Sharma,<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/> Nice to see you.</h1>
 
 <h3 align="center">
 I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
