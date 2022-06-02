@@ -39,9 +39,6 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 
 ---
 
-| <a href="https://github.com/Bharatsharma19/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bharatsharma19&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Bharatsharma19/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatsharma19&layout=compact&theme=buefy&hide_border=true" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 <p align=center>
 <img height="22" src="https://komarev.com/ghpvc/?username=Bharatsharma19" alt="Bharatsharma19"/>
 <a href="https://github.com/Bharatsharma19">
