@@ -7,7 +7,7 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-[![Run on Repl.it](https://repl.it/badge/github/Bharatsharma19/undefined)](https://repl.it/github/Bharatsharma19/undefined)
+[![Run on Repl.it](https://repl.it/badge/github/Bharatsharma19/undefined)](https://repl.it/github/Bharatsharma19/)
 
 ## About me
 
