@@ -23,7 +23,7 @@ View My Live Projects
 - ❤️ I love writing typescript, and building fun experiments on type-level
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-sharma-807682202/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharatsharma1909/)
 [![Twitter](https://img.shields.io/twitter/follow/BharatS82073957?logo=Twitter&style=for-the-badge)](https://twitter.com/BharatS82073957)
 
 ## 💻 Tech Stack
