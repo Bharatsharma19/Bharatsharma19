@@ -8,7 +8,11 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 </div>
 <h3 align="center">
   <a href="https://bharatsharma19.github.io/Main-Portfolio/" target="_blank">
-[Checkout My Portfolio]
+Checkout My Portfolio
+  </a>
+  <br><br>
+  <a href="https://replit.com/@bharatsharma19/" target="_blank">
+View My Live Projects
   </a>
 </h3>
 
