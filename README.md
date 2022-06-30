@@ -4,7 +4,7 @@ Hey! I'm Bharat Sharma,<img src="https://emojis.slackmojis.com/emojis/images/153
 <h3 align="center">
 I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 <div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="512" height="256">
 </div>
 <h3 align="center">
   <a href="https://bharatsharma19.github.io/Main-Portfolio/" target="_blank">
