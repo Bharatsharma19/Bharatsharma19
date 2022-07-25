@@ -6,7 +6,7 @@ Hey! I'm Bharat Sharma,<img src="https://emojis.slackmojis.com/emojis/images/153
 <h3 align="center">
 I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 <div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="512" height="256">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 </div>
 <h3 align="center">
   <a href="https://bharatsharma19.github.io/Main-Portfolio/">
@@ -45,6 +45,11 @@ View My Live Projects
   <br><br>
   https://skyline.github.com/Bharatsharma19/2022
 </p>
+
+## 💹 Contribution Graph
+<p align="center">
+	<img src="https://github.com/bharatsharma19/bharatsharma19/blob/output/github-contribution-grid-snake.gif">
+</p>	
 
 ## 📟 GitHub Stats
 <p align="center">
