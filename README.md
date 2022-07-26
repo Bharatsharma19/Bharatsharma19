@@ -54,7 +54,7 @@ View My Live Projects
 ## 📟 GitHub Stats
 <p align="center">
 	<img src="https://awesome-github-stats.azurewebsites.net/user-stats/bharatsharma19?cardType=level&theme=blueberry&showIcons=false&Title=38E4FF&Ring=F6FF00"
-	     width="48%" style="width:432px"; />
+	     width="48%" style="width:364px"; />
 	<img width="48%" height="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bharatsharma19&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFEB07" style="width:432px, height:162px"; />
 </p>
 
