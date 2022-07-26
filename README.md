@@ -53,8 +53,8 @@ View My Live Projects
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bharatsharma19&show_icons=true&theme=blueberry" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bharatsharma19&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFEB07" />
+	<img src="https://awesome-github-stats.azurewebsites.net/user-stats/bharatsharma19?cardType=level&theme=blueberry&showIcons=false&Title=38E4FF&Ring=F6FF00" style="width:432px"; />
+	<img width="48%" height="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bharatsharma19&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFEB07" />
 </p>
 
 ## 📈 Activity Graph
